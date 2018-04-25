@@ -8,3 +8,11 @@ TypeScript Fundamentals
 * Access modifiers
 * Properties
 * Modules
+
+             Transpile
+TypeScript -------------> Javascript
+
+How to install TypeScript ?
+
+$ npm install -g typescript
+$ tsc --version
